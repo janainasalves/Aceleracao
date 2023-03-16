@@ -10,13 +10,13 @@ Estamos muito felizes que você chegou! 🥰
 
 Desejamos que tenha uma excelente formação, e conte sempre com a gente!
 
-## Dinâmica dos conteúdos:
+## Dinâmica dos conteúdos
 
 A Aceleração ocorre de maneira 100% assíncrona, ou seja, você **não** terá aulas ao vivo ou encontros obrigatórios. 
 Aproveite essa oportunidade para organizar seus horários e agenda da melhor forma possível e com muita autonomia, assim você poderá ter uma gestão do tempo ainda mais assertiva. Além disso, utilize o [Discord da Aceleração](https://discord.gg/r4d4X6YZ5b) para compartilhar dúvidas e ideias com pessoas que estão estudando o mesmo conteúdo que você.
 Porém, reforçamos que a Aceleração Java estará disponível para ser concluída em até 60 meses (5 anos) após a formatura.
 
-## Dinâmica do suporte técnico: 
+## Dinâmica do suporte técnico
 
 Você terá suporte do time Trybe para tirar dúvidas a respeito dos projetos (Desafios Agregadores) e exercícios (Desafios Simples). Esse apoio será realizado síncrona e assíncrona.
 No [Discord da Aceleração Java](https://discord.gg/r4d4X6YZ5b), os canais estarão organizados por seções do conteúdo, para que você possa postar suas dúvidas de acordo com o tópico que estiver estudando. Teremos pessoas do time técnico da Trybe presentes nestes canais e aptas para dar o suporte necessário. 
@@ -36,7 +36,7 @@ Ao entrar no encontro você terá acesso a um link do Slido para postar o tópic
 
 Lembrando que, caso você não consiga receber o atendimento no dia, você poderá participar novamente do próximo encontro e também compartilhar sua dúvida de maneira assíncrona no canal do Discord da Aceleração. 
 
-## Dinâmica dos exercícios (Desafios Simples) e Projetos (Desafios Agregadores): 
+## Dinâmica dos exercícios (Desafios Simples) e Projetos (Desafios Agregadores)
 
 Ao longo da Aceleração, você terá exercícios (Desafios Simples) e projetos (Desafios Agregadores) para serem realizados, visando maximizar seu aprendizado. 
 
@@ -48,49 +48,55 @@ Para a conclusão da formação e obtenção do certificado é necessário que v
 
 Recomendamos que você também faça os exercícios (Desafios Simples), pois eles são importantes para aprofundar e maximizar o aprendizado. Entretanto, reforçamos que **para a conclusão e certificação da Aceleração Java, a entrega dos exercícios (Desafios Simples) não é exigida como requisito, apenas de todos os projetos (Desafios Agregadores) e Desafio final, que explicaremos abaixo.** 
 
-Dinâmica do projeto final: 
-O projeto final da Aceleração faz parte de um dos requisitos para conclusão da Aceleração Java e obtenção do certificado. Este projeto deve ser desenvolvido individualmente e apresentado para a banca avaliadora da Trybe.
+## Dinâmica do projeto final
+
+O projeto final da Aceleração faz parte de um dos requisitos para conclusão da Aceleração Java e obtenção do certificado. **Este projeto deve ser desenvolvido individualmente e apresentado para a banca avaliadora da Trybe.**
+
 Diferentemente dos demais projetos, este não terá um avaliador automático. Você será responsável pela criação do projeto desde o início, garantindo sua aderência à especificação, e por apresentá-lo à banca avaliadora. 
+
 O acesso ao projeto final já está disponível na última seção da plataforma da Aceleração. Ao acessá-lo, você terá acesso ao contexto do que é pedido e poderá escolher um entre os dois temas propostos para começar a se organizar e executar o projeto.
 
-Apresentação para Banca Avaliadora
+## Apresentação para Banca Avaliadora
+
 A apresentação do projeto final para a banca avaliadora é obrigatória para conclusão da Aceleração Java e obtenção do certificado. Abaixo algumas orientações e dicas para realizar a apresentação:
-O tempo estimado por pessoa para realizar a apresentação é de 10 minutos;
-A estrutura da apresentação é definida por você, mas recomendamos que apresente: i) objetivo do projeto, ii) tecnologias utilizadas, iii) estratégias, desafios, aprendizados e destaques no desenvolvimento, iv) demonstração prática do projeto;
-Para desenvolver a apresentação, recomendamos que consuma o conteúdo de Apresentações de Impacto disponível aqui;
-Use a ferramenta que preferir para criar a apresentação, como exemplo algumas sugestões são PPT, Canva ou Google Slides;
-Se conecte com o público: use a apresentação visual em favor do seu projeto, utilize fatores de engajamento para cativar o público com sua apresentação;
-Use bons recursos visuais: os slides devem ajudar na sua conexão com o público, então capriche e inclua imagens para mostrar diagrama, fluxo do projeto, ou o projeto funcionando;
-Demonstre satisfação: é um projeto totalmente desenvolvido por você, mostre orgulho do resultado que alcançou!
+* O tempo estimado por pessoa para realizar a apresentação é de 10 minutos;
+* A estrutura da apresentação é definida por você, mas recomendamos que apresente: i) objetivo do projeto, ii) tecnologias utilizadas, iii) estratégias, desafios, aprendizados e destaques no desenvolvimento, iv) demonstração prática do projeto;
+* Para desenvolver a apresentação, recomendamos que consuma o conteúdo de Apresentações de Impacto disponível aqui;
+* Use a ferramenta que preferir para criar a apresentação, como exemplo algumas sugestões são PPT, Canva ou Google Slides;
+* Se conecte com o público: use a apresentação visual em favor do seu projeto, utilize fatores de engajamento para cativar o público com sua apresentação;
+* Use bons recursos visuais: os slides devem ajudar na sua conexão com o público, então capriche e inclua imagens para mostrar diagrama, fluxo do projeto, ou o projeto funcionando;
+* Demonstre satisfação: é um projeto totalmente desenvolvido por você, mostre orgulho do resultado que alcançou!
 
 Para apresentar seu projeto final para a banca avaliadora é necessário se inscrever em um formulário, que será disponibilizado mensalmente. Mais detalhes deste processo abaixo no item Conclusão e Certificação.
 
-Conclusão e Certificação:   
-A partir de Maio de 2023, acontecerá uma cerimônia mensal de formatura. Nesta cerimônia, cada pessoa interessada em concluir e se certificar na Aceleração Java fará a inscrição em um formulário, que será divulgado no canal #comunicados dias antes da data da cerimônia.
+## Conclusão e Certificação
 
-A partir das inscrições realizadas, o time Trybe fará a apuração das pessoas que concluíram todos os projetos da Aceleração atendendo aos requisitos exigidos e fará a divulgação das pessoas que participarão da formatura. Esse fluxo se repetirá mensalmente.  
+A partir de Maio de 2023, acontecerá uma cerimônia mensal de formatura. Nesta cerimônia, cada pessoa interessada em concluir e se certificar na Aceleração Java fará a inscrição em um formulário, que será divulgado no canal **#comunicados** dias antes da data da cerimônia.
+
+A partir das inscrições realizadas, o time Trybe fará a apuração das pessoas que concluíram todos os projetos da Aceleração atendendo aos requisitos exigidos e fará a divulgação das pessoas que participarão da formatura. Esse fluxo se repetirá **mensalmente**.  
 
 Para a cerimônia de formatura, haverá um limite de 30 pessoas por mês. Portanto, caso você se inscreva para a formatura, tenha os requisitos necessários, mas o número de inscritos supere o limite da banca (30 pessoas), você automaticamente será uma pessoa agendada para o mês subsequente. O critério para ordenar as pessoas participantes de cada banca, será ordem de inscrição.
 
 Para participar da banca e concluir a Aceleração, você deverá: 
-Concluir todos os projetos (Desafios Agregadores) propostos na formação atingindo o score maior ou igual a 80; 
-Desenvolver o projeto final da Aceleração; 
-Apresentar e obter aprovação do projeto final com a banca avaliadora. 
+* Concluir todos os projetos (Desafios Agregadores) propostos na formação atingindo o score maior ou igual a 80; 
+* Desenvolver o projeto final da Aceleração; 
+* Apresentar e obter aprovação do projeto final com a banca avaliadora. 
 
 O time Trybe fará todos os alinhamentos a respeito de ordem das apresentações, dia e horário da apresentação, após a definição das pessoas que participarão, informando para essas pessoas os próximos passos. 
 
-IMPORTANTE: Mantenha atenção aos comunicados realizados pelo canal #comunicados do Discord, por lá, teremos as divulgações de datas e resultados das bancas. 
+**IMPORTANTE:** Mantenha atenção aos comunicados realizados pelo canal **#comunicados** do Discord, por lá, teremos as divulgações de datas e resultados das bancas. 
 
 Após a realização da apresentação final do projeto, o time técnico da Trybe fará a avaliação dos projetos para analisar se os requisitos foram cumpridos. As pessoas aprovadas serão notificadas e receberão em até 15 dias corridos após a apresentação o certificado de conclusão da Aceleração. 
 
 As pessoas não aprovadas receberão uma devolutiva em até 15 dias corridos e poderão participar novamente de agendas futuras de apresentação do projeto final. 
 
-Tempo hábil para realizar a Aceleração: 
+## Tempo hábil para realizar a Aceleração
+
 A Aceleração ficará disponível por até 60 meses após a formatura (mesmo tempo de acesso ao  conteúdo do curso da Trybe na plataforma de aprendizagem). Portanto, enquanto você tiver acesso ao Course, terá acesso ao conteúdo da Aceleração e poderá realizá-la. O seu acesso ao Course será mantido desde que você:
 
-Esteja trabalhando ou ativamente buscando trabalho;
-Cumpra com todas as condições estabelecidas no seu Contrato, no Manual da Pessoa Estudante e no Código de Conduta, principalmente no que se refere às diretrizes de relacionamento e conduta, além das regras de uso e compartilhamento dos conteúdos e da propriedade intelectual da Trybe; 
-Mantenha seus dados pessoais e as informações de carreira, renda e trabalho atualizados; e,
-Se tiver optado pelo Modelo de Sucesso Compartilhado, estar adimplente com todas as suas obrigações financeiras e estar em dia com o acompanhamento mensal do MSC.
+1. Esteja trabalhando ou ativamente buscando trabalho;
+2. Cumpra com todas as condições estabelecidas no seu Contrato, no Manual da Pessoa Estudante e no Código de Conduta, principalmente no que se refere às diretrizes de relacionamento e conduta, além das regras de uso e compartilhamento dos conteúdos e da propriedade intelectual da Trybe; 
+3. Mantenha seus dados pessoais e as informações de carreira, renda e trabalho atualizados; e,
+4. Se tiver optado pelo Modelo de Sucesso Compartilhado, estar adimplente com todas as suas obrigações financeiras e estar em dia com o acompanhamento mensal do MSC.
 
 Não se esqueça de deixar seu feedback. Durante a Aceleração, você terá a oportunidade de avaliar o conteúdo, bem como os momentos síncronos e a experiência geral.
