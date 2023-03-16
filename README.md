@@ -23,43 +23,30 @@ No [Discord da Aceleração Java](https://discord.gg/r4d4X6YZ5b), os canais esta
 Aproveite para contribuir com as dúvidas de outras pessoas também, assim podemos construir um espaço extremamente colaborativo e amigável.
 Além disso, toda semana (exceto em feriados e em ocasiões especiais) teremos mentorias síncronas, também organizadas por seção do conteúdo. Estes encontros estão dispostos da seguinte forma: 
 
-Horário
-Segunda
-Terça
-Quarta
-Quinta
-Sexta
-11:00 às 12:00
-Projetos 
-Projetos 
-Projetos 
-- 
+Horário | Segunda | Terça | Quarta | Quinta | Sexta
+-- | -- | -- | -- | -- | --
+11:00 às 12:00 | Projetos | Projetos | Projetos | - | -
+18:00 às 19:00 | Seções 1 e 2 | Seções 1 e 2 | Seções 3, 4, 5 e 6 | Seções 7, 8, 9 e 10 | Seções 11, 12 e 13
 
+Os encontros terão a duração de uma hora e todas as pessoas interessadas poderão participar. O link do Zoom e Slido de cada encontro será disponibilizado no canal [**#comunicados**](https://discord.gg/fEyjCYJBmX) do Discord e reforçado pelo time Trybe.
 
--
-18:00 às 19:00
-Seções 1 e 2
-Seções 1 e 2
-Seções 3, 4, 5 e 6
-Seções 7, 8, 9 e 10
-Seções 11, 12 e 13 
-
-
-
-Os encontros terão a duração de uma hora e todas as pessoas interessadas poderão participar. O link do Zoom e Slido de cada encontro será disponibilizado no canal #comunicados do Discord e reforçado pelo time Trybe.
-
-Ao longo de cada dia da semana os mentores do time Trybe focados em tirar dúvidas das seções do conteúdo da Aceleração. As manhãs reservadas para Projeto serão utilizadas para dúvidas a respeito dos projetos (Desafios Agregadores). No período da noite, teremos os encontros organizados por seção de conteúdo.
+Ao longo de cada dia da semana os mentores do time Trybe focados em tirar dúvidas das seções do conteúdo da Aceleração. As manhãs reservadas para **Projeto** serão utilizadas para dúvidas a respeito dos projetos (Desafios Agregadores). No período da noite, teremos os encontros organizados por seção de conteúdo.
 
 Ao entrar no encontro você terá acesso a um link do Slido para postar o tópico central da sua dúvida e, assim, as dúvidas mais votadas serão priorizadas em cada encontro. 
 
 Lembrando que, caso você não consiga receber o atendimento no dia, você poderá participar novamente do próximo encontro e também compartilhar sua dúvida de maneira assíncrona no canal do Discord da Aceleração. 
 
-Dinâmica dos exercícios (Desafios Simples) e Projetos (Desafios Agregadores): 
+## Dinâmica dos exercícios (Desafios Simples) e Projetos (Desafios Agregadores): 
+
 Ao longo da Aceleração, você terá exercícios (Desafios Simples) e projetos (Desafios Agregadores) para serem realizados, visando maximizar seu aprendizado. 
-Os exercícios (Desafios Simples) e projetos (Desafios Agregadores) terão o mesmo formato do curso da Trybe, contando com avaliadores automáticos e com a descrição do que você deve desenvolver dentro do próprio repositório, e para conclusão é necessário obter pontuação igual ou superior a 80 no avaliador. Você terá acesso aos repositórios de ambos através da divulgação dos links dentro do servidor da Aceleração no Discord.
-Com a liberação dos acessos teremos diferentes turmas de Aceleração Java realizando a formação, com diferentes links de repositório dos projetos. Portanto, caso você ainda esteja em dúvida de qual turma de Aceleração Java pertence, busque o e-mail “[Trybe] Aviso - Aceleração Java liberada”  em sua caixa de entrada para verificar qual sua turma e assim, encontrar no canal #comunicados os links dos seus exercícios. 
-Para a conclusão da formação e obtenção do certificado é necessário que você conclua todos os Projetos (Desafios Agregadores) apresentados ao longo da formação com pontuação igual ou superior a 80 no avaliador, além de desenvolver e apresentar o Projeto Final, que explicaremos adiante na Dinâmica do projeto final. 
-Recomendamos que você também faça os exercícios (Desafios Simples), pois eles são importantes para aprofundar e maximizar o aprendizado. Entretanto, reforçamos que para a conclusão e certificação da Aceleração Java, a entrega dos exercícios (Desafios Simples) não é exigida como requisito, apenas de todos os projetos (Desafios Agregadores) e Desafio final, que explicaremos abaixo. 
+
+Os exercícios (Desafios Simples) e projetos (Desafios Agregadores) terão o mesmo formato do curso da Trybe, contando com avaliadores automáticos e com a descrição do que você deve desenvolver dentro do próprio repositório, e para conclusão é necessário obter pontuação igual ou superior a 80 no avaliador. Você terá acesso aos repositórios de ambos através da divulgação dos links dentro do servidor da Aceleração no [Discord](https://discord.gg/r4d4X6YZ5b).
+
+Com a liberação dos acessos teremos diferentes turmas de Aceleração Java realizando a formação, com diferentes links de repositório dos projetos. Portanto, caso você ainda esteja em dúvida de qual turma de Aceleração Java pertence, busque o e-mail **“[Trybe] Aviso - Aceleração Java liberada”**  em sua caixa de entrada para verificar qual sua turma e assim, encontrar no canal **#comunicados** os links dos seus exercícios. 
+
+Para a conclusão da formação e obtenção do certificado é necessário que você **conclua todos os Projetos (Desafios Agregadores)** apresentados ao longo da formação com pontuação igual ou superior a 80 no avaliador, além de desenvolver e apresentar o Projeto Final, que explicaremos adiante na Dinâmica do projeto final. 
+
+Recomendamos que você também faça os exercícios (Desafios Simples), pois eles são importantes para aprofundar e maximizar o aprendizado. Entretanto, reforçamos que **para a conclusão e certificação da Aceleração Java, a entrega dos exercícios (Desafios Simples) não é exigida como requisito, apenas de todos os projetos (Desafios Agregadores) e Desafio final, que explicaremos abaixo.** 
 
 Dinâmica do projeto final: 
 O projeto final da Aceleração faz parte de um dos requisitos para conclusão da Aceleração Java e obtenção do certificado. Este projeto deve ser desenvolvido individualmente e apresentado para a banca avaliadora da Trybe.
